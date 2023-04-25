@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c46be94-3215-461c-b9a0-79060d59e51c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediator/client/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mediator/client/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy/myClass/VPN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/myClass/VPN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.proxy.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stratage.Main" />
       <module name="patternJava" />
@@ -55,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="proxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.Main" />
+      <module name="patternJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.proxy.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
